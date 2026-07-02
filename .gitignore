@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Arduino
+build/
+*.elf
+*.bin
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS Files
+Thumbs.db
+.DS_Store
